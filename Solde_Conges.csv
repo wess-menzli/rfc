@@ -1,0 +1,106 @@
+Nom_Prenom;Employee;Solde;statut_professionnel;LastAccrualDate;Created By;commentaire_modification
+RADHIA ABDELMALEK;"[""""]";10;Personnel d'exécution;01/07/2025;Wessim MENZLI;travail weekend.
+;;;;;;
+;;;;;;
+WALID HAMMAMI;"[""""]";12;Personnel d'exécution;01/07/2025;Wessim MENZLI; travail weekend.
+;;;;;;
+MOHAMED JENDOUBI;;10;Personnel d'exécution;01/07/2025;Wessim MENZLI;
+MOHAMED ALI LACHHEB;;18;Personnel d'exécution;01/07/2025;Wessim MENZLI;travail weekend.
+;;;;;;
+RAMZI MKADDEM;RamziM@rfc.com.tn;9;Personnel administratif;01/07/2025;Wessim MENZLI;Modification manuelle
+FAOUZI SOUSSI;faouzis@rfc.com.tn;12.5;Personnel administratif;07/01/2025;Wessim MENZLI;Ajustement suite à une régularisation.
+FATEN KRIBI ;Faten.KRIBI@rfc.com.tn;5;Personnel administratif;07/01/2025;Wessim MENZLI;Modification manuelle
+SADRI BEN TALEB;Sadri.BT@rfc.com.tn;6;Personnel administratif;07/01/2025;Wessim MENZLI;Congés supplémentaires accordés par la direction.
+MOHAMED ABDELMOULA;Mohamed.ABDELMOULA@rfc.com.tn;9;Personnel administratif;07/01/2025;Wessim MENZLI;Mise à jour annuelle des congés.
+NIZAR ABIDI;Nizar.ABIDI@rfc.com.tn;29;Personnel administratif;07/01/2025;Wessim MENZLI;Ajustement automatique
+KHOULOUD BADRI;Khouloud.BADRI_EXT@rfc.com.tn;21;Personnel administratif;07/01/2025;Wessim MENZLI;Modification manuelle
+YASSINE CHEIKH;yassine@rfc.com.tn;25;Personnel administratif;07/01/2025;Wessim MENZLI;Solde modifié après validation RH
+;;;;;;
+MEKKI BENMOUSSA;Mekki.BENMOUSSA@rfc.com.tn;23;Personnel administratif;07/01/2025;Wessim MENZLI;Ajustement automatique
+MAROINE GHEDIRA;Maroiane.GHEDIRA@rfc.com.tn;25;Personnel administratif;07/01/2025;Wessim MENZLI;Correction suite à une erreur de calcul.
+HOUSSEM FLISS ;Houssem.FLISS@rfc.com.tn;20;Personnel administratif;07/01/2025;Wessim MENZLI;Congés supplémentaires accordés par la direction.
+MARWA FATHALLI;Marwa.FATHALLI@rfc.com.tn;20;Personnel administratif;07/01/2025;Wessim MENZLI;Modification manuelle
+KHAOULA ELFALEH;khaoula.elfaleh@rfc.com.tn;13;Personnel administratif;07/01/2025;Wessim MENZLI;Ajustement automatique
+LOTFI YAAKOUBI;Lotfi.YAAKOUBI@rfc.com.tn;29;Personnel administratif;07/01/2025;Wessim MENZLI;Congés supplémentaires accordés par la direction.
+MEHDI MANSOURI;mehdi.mansouri@rfc.com.tn;10;Personnel administratif;07/01/2025;Wessim MENZLI;Ajout de jours suite à formation validée
+;;;;;;
+SIWAR BOUZIDI;Siwar.BOUZIDI@rfc.com.tn;9;Personnel administratif;07/01/2025;Wessim MENZLI;Solde modifié après retour de congé maternité.
+ALAEDDINE RIAHI;Alaeddine.RIAHI@rfc.com.tn;13;Personnel administratif;07/01/2025;Wessim MENZLI;Mise à jour annuelle des congés.
+SONIA BENAISSA;Sonia.BENAISSA@rfc.com.tn;28;Personnel administratif;07/01/2025;Wessim MENZLI;Mise à jour après période d’essai.
+AZZA DAGHMOURI;Azza.DAGHMOURI@rfc.com.tn;27;Personnel administratif;07/01/2025;Wessim MENZLI;Correction suite à une erreur de calcul.
+FIDAA ATTIA;Fidaa.ATTIA@rfc.com.tn;24;Personnel administratif;07/01/2025;Wessim MENZLI;Mise à jour annuelle des congés.
+BECHIR MAMI;Bechir.MAMI@rfc.com.tn;15;Personnel administratif;07/01/2025;Wessim MENZLI;Correction d'une erreur précédente
+NADA ABIDI;Nada.ABIDI@rfc.com.tn;27;Personnel administratif;07/01/2025;Wessim MENZLI;Ajustement automatique
+MOHAMED KHEIREDDINE BAIRAM;MohamedKheireddine.BAIRAM@rfc.com.tn;20;Personnel administratif;07/01/2025;Wessim MENZLI;Modification manuelle
+ANWER CHAABANI;Anwer.CHAABANI@rfc.com.tn;23;Personnel administratif;07/01/2025;Wessim MENZLI;Correction suite à une erreur de calcul.
+NESRINE TRABELSI;Nesrine.TRABELSI@rfc.com.tn;20;Personnel administratif;07/01/2025;Wessim MENZLI;Correction d'une erreur précédente
+NEDRA OUERFELLI;nedra.ouerfelli@rfc.com.tn;14;Personnel administratif;07/01/2025;Wessim MENZLI;Mise à jour annuelle des congés.
+AYMEN MAMI;Aymen.MAMI@rfc.com.tn;22;Personnel administratif;07/01/2025;Wessim MENZLI;
+WOUROUD ABDELHEDI;Wouroud.ABDELHEDI@rfc.com.tn;24;Personnel administratif;07/01/2025;Wessim MENZLI;
+MOUNA BEN DHAFER;Mouna.BENDHAFER@rfc.com.tn;24;Personnel administratif;07/01/2025;Wessim MENZLI;Ajustement suite à une régularisation.
+ILEF KHALIFA MANSOUR;Ilef.KHALIFAMANSOUR@rfc.com.tn;12;Personnel administratif;07/01/2025;Wessim MENZLI;Ajustement automatique
+SAWSSEN MASTOURI;Sawssen.MASTOURI@rfc.com.tn;5;Personnel administratif;07/01/2025;Wessim MENZLI;Modification manuelle
+SINDA FADHLAOUI;Sinda.FADHLAOUI@rfc.com.tn;16;Personnel administratif;07/01/2025;Wessim MENZLI;
+HAMZA HAFSAOUI;Hamza.HAFSAOUI@rfc.com.tn;16;Personnel administratif;07/01/2025;Wessim MENZLI;Modification manuelle
+GHOFRANE KHADHRANI;Ghofrane.KHADHRANI@rfc.com.tn;29;Personnel administratif;07/01/2025;Wessim MENZLI;Mise à jour annuelle des congés.
+SYRINE ZALTNI;Syrine.ZALTNI@rfc.com.tn;25;Personnel administratif;07/01/2025;Wessim MENZLI;
+MANEL GABSI;Manel.GABSI@rfc.com.tn;17;Personnel administratif;07/01/2025;Wessim MENZLI;Ajustement suite à une régularisation.
+AIMEN CHARFEDDINE;AimenCH@rfc.com.tn;15;Personnel administratif;07/01/2025;Wessim MENZLI;Mise à jour après période d’essai.
+LEILA BENAISSA;Leila.BENAISSA@rfc.com.tn;26;Personnel administratif;07/01/2025;Wessim MENZLI;Ajustement automatique
+FIRAS BEJAOUI;Firas.BEJAOUI@rfc.com.tn;20;Personnel administratif;07/01/2025;Wessim MENZLI;Modification manuelle
+LAEDDINE TOUKEBRI;Alaeddine.TOUKEBRI@rfc.com.tn;28;Personnel administratif;07/01/2025;Wessim MENZLI;Mise à jour après période d’essai.
+MARWA CHERIF;Marwa.CHERIF@rfc.com.tn;20;Personnel administratif;07/01/2025;Wessim MENZLI;Modification manuelle
+AHMED ZAYANE;Ahmed.ZAYANE@rfc.com.tn;15;Personnel administratif;01/07/2025;Wessim MENZLI;Mise à jour après période d’essai.
+NOUR BENABDALLAH;Nour.BENABDALLAH@rfc.com.tn;32.5;Personnel administratif;01/07/2025;Wessim MENZLI;
+AMIRA SOUISSI;Amira.SOUISSI@rfc.com.tn;15;Personnel administratif;07/01/2025;Wessim MENZLI;
+ASMA TOUATI;Asma.TOUATI@rfc.com.tn;19;Personnel administratif;07/01/2025;Wessim MENZLI;
+ZAYNEB ALABED;Zayneb.ALABED@rfc.com.tn;20;Personnel administratif;07/01/2025;Wessim MENZLI;Ajustement automatique
+FERIEL BEJAOUI;Feriel.Bejaoui@rfc.com.tn;7;Personnel administratif;07/01/2025;Wessim MENZLI;Congés supplémentaires accordés par la direction.
+MOUNA SELMI;Mouna.SELMI@rfc.com.tn;23;Personnel administratif;07/01/2025;Wessim MENZLI;Ajustement automatique
+FEDI BELHAMMADI;Fedi.BELHAMMADI@rfc.com.tn;8;Personnel administratif;07/01/2025;Wessim MENZLI;
+MOHAMED AZIZ AYARI;MohamedAziz.AYARI@rfc.com.tn;27;Personnel administratif;07/01/2025;Wessim MENZLI;Ajustement automatique
+MOHAMED BOURAOUI;Mohamed.BOURAOUI@rfc.com.tn;54;Personnel administratif;01/07/2025;Wessim MENZLI;Modification manuelle
+KHOULOUD CHANOUFI;Khouloud.CHANNOUFI@rfc.com.tn;24;Personnel administratif;07/01/2025;Wessim MENZLI;Congés supplémentaires accordés par la direction.
+MOHAMED YASSINE TRABELSI;MohamedYassine.TRABELSI@rfc.com.tn;56;Personnel administratif;01/07/2025;Wessim MENZLI;Modification manuelle
+OUMAIMA GATTOUFI ;Oumaima.GATTOUFI@rfc.com.tn;20;Personnel administratif;07/01/2025;Wessim MENZLI;
+EYA ABDELLI;Eya.ABDELLI@rfc.com.tn;5;Personnel administratif;07/01/2025;Wessim MENZLI;Modification manuelle
+HADHAMI HELALI;Hadhami.HELALI@rfc.com.tn;15;Personnel administratif;07/01/2025;Wessim MENZLI;Mise à jour annuelle des congés.
+DANIEL BEN YOUSSEF;Daniel.BENYOUSSEF@rfc.com.tn;23;Personnel administratif;07/01/2025;Wessim MENZLI;
+HEND SDOUGA;Hend.SDOUGA@rfc.com.tn;23;Personnel administratif;07/01/2025;Wessim MENZLI;Congés supplémentaires accordés par la direction.
+ELAA KHRIBI;Elaa.KHRIBI@rfc.com.tn;14;Personnel administratif;07/01/2025;Wessim MENZLI;Modification manuelle
+SALMA NOURI;Salma.NOURI@rfc.com.tn;10;Personnel administratif;07/01/2025;Wessim MENZLI;
+CYRINE MIMOUNI;Cyrine.MIMOUNI@rfc.com.tn;26;Personnel administratif;07/01/2025;Wessim MENZLI;Modification manuelle
+WAEL OUSLATI;Wael.OUESLATI@rfc.com.tn;5;Personnel administratif;07/01/2025;Wessim MENZLI;
+SIWAR AKRIMI;Siwar.akrimi@rfc.com.tn;23;Personnel administratif;07/01/2025;Wessim MENZLI;Modification manuelle
+ILYES KCHOUK;Ilyes.Kchouk@rfc.com.tn;7;Personnel administratif;07/01/2025;Wessim MENZLI;Ajustement suite à une régularisation.
+AHMED ATHAMNIA;Ahmed.athamnia@rfc.com.tn;30;Personnel administratif;07/01/2025;Wessim MENZLI;
+SEYLENE WANNES;Seylene.wannes@rfc.com.tn;35;Personnel administratif;01/07/2025;Wessim MENZLI;
+MOHAMED YOSRI DRINE;MohamedYosri.DRINE@rfc.com.tn;30;Personnel administratif;07/01/2025;Wessim MENZLI;
+ALIA SAKKA ;Alia.SAKKA@rfc.com.tn;17.5;Personnel administratif;01/07/2025;Wessim MENZLI;
+SAFA DERBALI;Safa.DERBALI@rfc.com.tn;18;Personnel administratif;07/01/2025;Wessim MENZLI;Mise à jour annuelle des congés.
+AMAL ZITOUNI;Amal.zitouni@rfc.com.tn;25;Personnel administratif;07/01/2025;Wessim MENZLI;Congés supplémentaires accordés par la direction.
+EMNA TAALOUCH;Emna.taalouch@rfc.com.tn;10;Personnel administratif;07/01/2025;Wessim MENZLI;
+IHEB HARRATH;Iheb.HARRATH@rfc.com.tn;9;Personnel administratif;07/01/2025;Wessim MENZLI;Solde modifié après retour de congé maternité.
+MOHAMED ALAA LABIDI;MohamedAlaa.LABIDI@rfc.com.tn;11;Personnel administratif;07/01/2025;Wessim MENZLI;Correction suite à une erreur de calcul.
+AHMED BELDI;Ahmed.BELDI@rfc.com.tn;30;Personnel administratif;07/01/2025;Wessim MENZLI;Congés supplémentaires accordés par la direction.
+HEDIA ZEKRI ;Hedia.ZEKRI@rfc.com.tn;30;Personnel administratif;01/07/2025;Wessim MENZLI;
+IMEN ABBASSI;Imen.ABBASSI@rfc.com.tn;20;Personnel administratif;07/01/2025;Wessim MENZLI;Congés supplémentaires accordés par la direction.
+AMINE MATHLOUTHI;Amine.Mathlouthi@rfc.com.tn;22.5;Personnel administratif;01/07/2025;Wessim MENZLI;
+KAOUTHAR AMDOUNI;Kaouther.AMDOUNI@rfc.com.tn;19;Personnel administratif;07/01/2025;Wessim MENZLI;
+LYNDA BEN KHOUD ;Lynda.BENKHOUD@rfc.com.tn;25;Personnel administratif;07/01/2025;Wessim MENZLI;Mise à jour annuelle des congés.
+AYA KERCHABOU;Aya.KERCHABOU@rfc.com.tn;7.5;Personnel administratif;01/07/2025;Wessim MENZLI;Ajustement automatique
+HEDI ALOUI;Hedi.ALOUI@rfc.com.tn;7;Personnel administratif;07/01/2025;Wessim MENZLI;Solde modifié après retour de congé maternité.
+SAFA BANI;Safa.BANI@rfc.com.tn;21;Personnel administratif;07/01/2025;Wessim MENZLI;
+MANEL BELKHIR;Manel.BELKHIR@rfc.com.tn;3;Personnel administratif;01/07/2025;Wessim MENZLI;
+SARRA ZRIBI;Sarra.ZRIBI@rfc.com.tn;6;Personnel administratif;07/01/2025;Wessim MENZLI;
+NOURHENE GHARBI;Nourhene.gharbi@rfc.com.tn;13;Personnel administratif;07/01/2025;Wessim MENZLI;Congés supplémentaires accordés par la direction.
+NOURELHOUDA FDHILA;Nourelhouda.fdhila@rfc.com.tn;21;Personnel administratif;07/01/2025;Wessim MENZLI;Mise à jour annuelle des congés.
+CHAIMA HAJTAHER;Chaima.HAJTAHER@rfc.com.tn;13;Personnel administratif;07/01/2025;Wessim MENZLI;
+MOHAMED MOKHTAR JAAFAR;MohamedMokhtar.JAAFAR@rfc.com.tn;17;Personnel administratif;07/01/2025;Wessim MENZLI;
+MOHAMED AZIZ JAZIRI;MohamedAziz.JAZIRI@rfc.com.tn;8;Personnel administratif;07/01/2025;Wessim MENZLI;Correction suite à une erreur de calcul.
+NOUREDDINE TABBENE;Noureddine.TABBENE@rfc.com.tn;7;Personnel administratif;07/01/2025;Wessim MENZLI;
+ONS KAABECHI ;Ons.KAABECHI@rfc.com.tn;21;Personnel administratif;07/01/2025;Wessim MENZLI;Modification manuelle
+ONS BERRICHI;Ons.BERRICHI@rfc.com.tn;8;Personnel administratif;07/01/2025;Wessim MENZLI;
+IKRAM SAIDI;Ikram.SAIDI@rfc.com.tn;8;Personnel administratif;01/07/2025;Wessim MENZLI;Mise à jour après période d’essai.
+RIHEM FERCHICHI;RIHEM.FERCHICHI@rfc.com.tn;16;Personnel administratif;01/07/2025;Wessim MENZLI;Congés supplémentaires accordés par la direction.
+OUMAYMA AJLENE;Oumayma.AJLENE@rfc.com.tn;9;Personnel administratif;01/07/2025;Wessim MENZLI;Modification manuelle
