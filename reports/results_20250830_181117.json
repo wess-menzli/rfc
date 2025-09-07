@@ -1,0 +1,107 @@
+{
+  "best": {
+    "name": "lightgbm",
+    "metrics": {
+      "accuracy": 0.23255813953488372,
+      "precision": 0.2373949579831933,
+      "recall": 0.23466117216117213,
+      "f1": 0.2333333333333333
+    },
+    "params": {
+      "learning_rate": 0.1468308117573771,
+      "max_depth": 6,
+      "n_estimators": 361,
+      "num_leaves": 26,
+      "min_child_samples": 6,
+      "subsample": 0.9924563063935152,
+      "colsample_bytree": 0.9575853834187713,
+      "reg_alpha": 0.21191260715185292,
+      "reg_lambda": 1.9530889502056235,
+      "objective": "multiclass",
+      "metric": "multi_logloss",
+      "random_state": 42,
+      "num_class": 3,
+      "verbose": -1
+    }
+  },
+  "all": {
+    "xgboost": {
+      "metrics": {
+        "accuracy": 0.18604651162790697,
+        "precision": 0.1892156862745098,
+        "recall": 0.18818681318681318,
+        "f1": 0.18461538461538463
+      },
+      "params": {
+        "learning_rate": 0.10397729327610811,
+        "max_depth": 5,
+        "n_estimators": 250,
+        "min_child_weight": 1,
+        "subsample": 0.8418392483883007,
+        "colsample_bytree": 0.8953704080879444,
+        "gamma": 0.10367460540678103,
+        "reg_alpha": 0.452336255946367,
+        "reg_lambda": 2.2102513816499076,
+        "objective": "multi:softmax",
+        "eval_metric": "mlogloss",
+        "n_jobs": -1,
+        "random_state": 42,
+        "num_class": 3
+      }
+    },
+    "lightgbm": {
+      "metrics": {
+        "accuracy": 0.23255813953488372,
+        "precision": 0.2373949579831933,
+        "recall": 0.23466117216117213,
+        "f1": 0.2333333333333333
+      },
+      "params": {
+        "learning_rate": 0.1468308117573771,
+        "max_depth": 6,
+        "n_estimators": 361,
+        "num_leaves": 26,
+        "min_child_samples": 6,
+        "subsample": 0.9924563063935152,
+        "colsample_bytree": 0.9575853834187713,
+        "reg_alpha": 0.21191260715185292,
+        "reg_lambda": 1.9530889502056235,
+        "objective": "multiclass",
+        "metric": "multi_logloss",
+        "random_state": 42,
+        "num_class": 3,
+        "verbose": -1
+      }
+    },
+    "catboost": {
+      "metrics": {
+        "accuracy": 0.18604651162790697,
+        "precision": 0.18348187759952464,
+        "recall": 0.18818681318681318,
+        "f1": 0.1830232690447744
+      },
+      "params": {
+        "learning_rate": 0.11129450371891564,
+        "depth": 5,
+        "iterations": 219,
+        "l2_leaf_reg": 3.2175027347431033,
+        "random_strength": 0.12415681099375084,
+        "loss_function": "MultiClass",
+        "random_seed": 42,
+        "verbose": 0
+      }
+    },
+    "voting": {
+      "metrics": {
+        "accuracy": 0.23255813953488372,
+        "precision": 0.2347222222222222,
+        "recall": 0.23466117216117213,
+        "f1": 0.23234811165845648
+      },
+      "params": {
+        "estimators": "xgb+lgbm+cat"
+      }
+    }
+  },
+  "timestamp": "2025-08-30T18:11:17.182431"
+}

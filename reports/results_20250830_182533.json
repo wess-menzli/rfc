@@ -1,0 +1,70 @@
+{
+  "best": {
+    "name": "rf",
+    "metrics": {
+      "accuracy": 0.20930232558139536,
+      "precision": 0.2125,
+      "recall": 0.21085164835164835,
+      "f1": 0.20952380952380953
+    },
+    "params": {
+      "n_estimators": 76,
+      "max_depth": 8,
+      "min_samples_split": 2,
+      "min_samples_leaf": 1
+    }
+  },
+  "all": {
+    "logreg": {
+      "metrics": {
+        "accuracy": 0.20930232558139536,
+        "precision": 0.19246031746031744,
+        "recall": 0.220467032967033,
+        "f1": 0.1972455648926237
+      },
+      "params": {
+        "C": 0.0111306392216967,
+        "solver": "saga"
+      }
+    },
+    "rf": {
+      "metrics": {
+        "accuracy": 0.20930232558139536,
+        "precision": 0.2125,
+        "recall": 0.21085164835164835,
+        "f1": 0.20952380952380953
+      },
+      "params": {
+        "n_estimators": 76,
+        "max_depth": 8,
+        "min_samples_split": 2,
+        "min_samples_leaf": 1
+      }
+    },
+    "gb": {
+      "metrics": {
+        "accuracy": 0.16279069767441862,
+        "precision": 0.1664884135472371,
+        "recall": 0.16437728937728938,
+        "f1": 0.16279267773520645
+      },
+      "params": {
+        "n_estimators": 132,
+        "learning_rate": 0.016192520680283807,
+        "max_depth": 6
+      }
+    },
+    "voting": {
+      "metrics": {
+        "accuracy": 0.18604651162790697,
+        "precision": 0.18799019607843137,
+        "recall": 0.190018315018315,
+        "f1": 0.18476369755568867
+      },
+      "params": {
+        "estimators": "logreg+rf+gb"
+      }
+    }
+  },
+  "timestamp": "2025-08-30T18:25:33.322466"
+}

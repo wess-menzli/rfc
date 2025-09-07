@@ -1,0 +1,77 @@
+{
+  "best": {
+    "name": "logreg",
+    "metrics": {
+      "accuracy": 0.3148148148148148,
+      "precision": 0.3278528802825478,
+      "recall": 0.3182773109243697,
+      "f1": 0.31488903253609135
+    },
+    "params": {
+      "C": 1.0,
+      "penalty": "l2"
+    }
+  },
+  "all": {
+    "logreg": {
+      "metrics": {
+        "accuracy": 0.3148148148148148,
+        "precision": 0.3278528802825478,
+        "recall": 0.3182773109243697,
+        "f1": 0.31488903253609135
+      },
+      "params": {
+        "C": 1.0,
+        "penalty": "l2"
+      }
+    },
+    "rf": {
+      "metrics": {
+        "accuracy": 0.3148148148148148,
+        "precision": 0.31013274875167457,
+        "recall": 0.31576797385620914,
+        "f1": 0.3069812662342373
+      },
+      "params": {
+        "n_estimators": 100,
+        "max_depth": 5
+      }
+    },
+    "knn": {
+      "metrics": {
+        "accuracy": 0.25925925925925924,
+        "precision": 0.2547008547008547,
+        "recall": 0.25326797385620914,
+        "f1": 0.2518518518518518
+      },
+      "params": {
+        "n_neighbors": 3,
+        "weights": "distance"
+      }
+    },
+    "svm": {
+      "metrics": {
+        "accuracy": 0.25925925925925924,
+        "precision": 0.26153939836804285,
+        "recall": 0.25822829131652664,
+        "f1": 0.25524937239708034
+      },
+      "params": {
+        "kernel": "rbf",
+        "C": 1.0
+      }
+    },
+    "voting": {
+      "metrics": {
+        "accuracy": 0.2962962962962963,
+        "precision": 0.2909090909090909,
+        "recall": 0.2949346405228758,
+        "f1": 0.2880498133474983
+      },
+      "params": {
+        "estimators": "logreg+rf+knn"
+      }
+    }
+  },
+  "timestamp": "2025-08-30T19:17:09.557685"
+}

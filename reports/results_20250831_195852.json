@@ -1,0 +1,103 @@
+{
+  "best": {
+    "name": "rf",
+    "metrics": {
+      "accuracy": 0.7272727272727273,
+      "precision": 0.16666666666666666,
+      "recall": 0.5,
+      "f1": 0.25,
+      "auc": 0.5218750000000001,
+      "minority_f1": 0.25
+    },
+    "params": {
+      "class_weight": "balanced_subsample",
+      "max_depth": null,
+      "min_samples_leaf": 1,
+      "min_samples_split": 2,
+      "n_estimators": 100
+    }
+  },
+  "all": {
+    "logreg": {
+      "metrics": {
+        "accuracy": 0.5681818181818182,
+        "precision": 0.10526315789473684,
+        "recall": 0.5,
+        "f1": 0.17391304347826086,
+        "auc": 0.5125000000000001,
+        "minority_f1": 0.17391304347826086
+      },
+      "params": {
+        "C": 1,
+        "penalty": "l1",
+        "solver": "saga"
+      }
+    },
+    "rf": {
+      "metrics": {
+        "accuracy": 0.7272727272727273,
+        "precision": 0.16666666666666666,
+        "recall": 0.5,
+        "f1": 0.25,
+        "auc": 0.5218750000000001,
+        "minority_f1": 0.25
+      },
+      "params": {
+        "class_weight": "balanced_subsample",
+        "max_depth": null,
+        "min_samples_leaf": 1,
+        "min_samples_split": 2,
+        "n_estimators": 100
+      }
+    },
+    "xgb": {
+      "metrics": {
+        "accuracy": 0.6363636363636364,
+        "precision": 0.125,
+        "recall": 0.5,
+        "f1": 0.2,
+        "auc": 0.48750000000000004,
+        "minority_f1": 0.2
+      },
+      "params": {
+        "colsample_bytree": 1.0,
+        "gamma": 0,
+        "learning_rate": 0.1,
+        "max_depth": 7,
+        "n_estimators": 100,
+        "scale_pos_weight": 2.0,
+        "subsample": 1.0
+      }
+    },
+    "gb": {
+      "metrics": {
+        "accuracy": 0.7045454545454546,
+        "precision": 0.15384615384615385,
+        "recall": 0.5,
+        "f1": 0.23529411764705882,
+        "auc": 0.525,
+        "minority_f1": 0.23529411764705882
+      },
+      "params": {
+        "learning_rate": 0.2,
+        "max_depth": 7,
+        "n_estimators": 100,
+        "subsample": 0.9
+      }
+    },
+    "voting": {
+      "metrics": {
+        "accuracy": 0.6818181818181818,
+        "precision": 0.14285714285714285,
+        "recall": 0.5,
+        "f1": 0.2222222222222222,
+        "auc": 0.525,
+        "minority_f1": 0.2222222222222222
+      },
+      "params": {
+        "estimators": "logreg+rf+xgb+gb"
+      }
+    }
+  },
+  "timestamp": "2025-08-31T19:58:52.264082"
+}

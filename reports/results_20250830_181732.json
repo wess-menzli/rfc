@@ -1,0 +1,71 @@
+{
+  "best": {
+    "name": "voting",
+    "metrics": {
+      "accuracy": 0.20930232558139536,
+      "precision": 0.2159090909090909,
+      "recall": 0.20902014652014653,
+      "f1": 0.20893997445721582
+    },
+    "params": {
+      "estimators": "xgb+lgbm+cat"
+    }
+  },
+  "all": {
+    "xgboost": {
+      "metrics": {
+        "accuracy": 0.20930232558139536,
+        "precision": 0.2111111111111111,
+        "recall": 0.20902014652014653,
+        "f1": 0.20793650793650795
+      },
+      "params": {
+        "objective": "multi:softmax",
+        "eval_metric": "mlogloss",
+        "n_jobs": -1,
+        "random_state": 42,
+        "num_class": 3
+      }
+    },
+    "lightgbm": {
+      "metrics": {
+        "accuracy": 0.11627906976744186,
+        "precision": 0.11919191919191918,
+        "recall": 0.11973443223443224,
+        "f1": 0.11637744971078305
+      },
+      "params": {
+        "objective": "multiclass",
+        "metric": "multi_logloss",
+        "random_state": 42,
+        "num_class": 3,
+        "verbose": -1
+      }
+    },
+    "catboost": {
+      "metrics": {
+        "accuracy": 0.18604651162790697,
+        "precision": 0.1809116809116809,
+        "recall": 0.18818681318681318,
+        "f1": 0.18223443223443225
+      },
+      "params": {
+        "loss_function": "MultiClass",
+        "random_seed": 42,
+        "verbose": 0
+      }
+    },
+    "voting": {
+      "metrics": {
+        "accuracy": 0.20930232558139536,
+        "precision": 0.2159090909090909,
+        "recall": 0.20902014652014653,
+        "f1": 0.20893997445721582
+      },
+      "params": {
+        "estimators": "xgb+lgbm+cat"
+      }
+    }
+  },
+  "timestamp": "2025-08-30T18:17:32.574330"
+}

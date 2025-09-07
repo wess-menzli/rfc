@@ -1,0 +1,90 @@
+{
+  "best": {
+    "name": "catboost",
+    "metrics": {
+      "accuracy": 0.4666666666666667,
+      "precision": 0.38461538461538464,
+      "recall": 0.38461538461538464,
+      "f1": 0.38461538461538464,
+      "roc_auc": 0.5067873303167421
+    },
+    "params": {
+      "learning_rate": 0.016329314251960304,
+      "depth": 3,
+      "iterations": 515,
+      "l2_leaf_reg": 9.206576177996562,
+      "random_strength": 2.6237361536117225
+    }
+  },
+  "all": {
+    "xgboost": {
+      "metrics": {
+        "accuracy": 0.5666666666666667,
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0,
+        "roc_auc": 0.5
+      },
+      "params": {
+        "learning_rate": 0.04195521215143155,
+        "max_depth": 7,
+        "n_estimators": 564,
+        "min_child_weight": 17,
+        "subsample": 0.7686310556443064,
+        "colsample_bytree": 0.7731268979833568,
+        "gamma": 5.174513874739244,
+        "reg_alpha": 3.1641026066941755,
+        "reg_lambda": 2.457241189609864
+      }
+    },
+    "lightgbm": {
+      "metrics": {
+        "accuracy": 0.4,
+        "precision": 0.3076923076923077,
+        "recall": 0.3076923076923077,
+        "f1": 0.3076923076923077,
+        "roc_auc": 0.5067873303167421
+      },
+      "params": {
+        "learning_rate": 0.018564805078023355,
+        "max_depth": 7,
+        "n_estimators": 541,
+        "num_leaves": 74,
+        "min_child_weight": 5,
+        "subsample": 0.5741553807375976,
+        "colsample_bytree": 0.9215635997857884,
+        "reg_alpha": 0.683004270004605,
+        "reg_lambda": 1.5755978628949752
+      }
+    },
+    "catboost": {
+      "metrics": {
+        "accuracy": 0.4666666666666667,
+        "precision": 0.38461538461538464,
+        "recall": 0.38461538461538464,
+        "f1": 0.38461538461538464,
+        "roc_auc": 0.5067873303167421
+      },
+      "params": {
+        "learning_rate": 0.016329314251960304,
+        "depth": 3,
+        "iterations": 515,
+        "l2_leaf_reg": 9.206576177996562,
+        "random_strength": 2.6237361536117225
+      }
+    },
+    "voting": {
+      "metrics": {
+        "accuracy": 0.43333333333333335,
+        "precision": 0.3333333333333333,
+        "recall": 0.3076923076923077,
+        "f1": 0.32,
+        "roc_auc": 0.5067873303167421
+      },
+      "params": {
+        "estimators": "xgb+lgbm+cat"
+      }
+    }
+  },
+  "timestamp": "2025-08-29T15:59:45.921779"
+}
