@@ -51,8 +51,8 @@ def predict_next_leave(demandeur_name: str) -> str:
     """Predict the next leave approval/rejection probability for an employee."""
     script_dir = os.path.dirname(os.path.abspath(__file__))
     os.chdir(script_dir)
-    demandes = load_csv_safe(r"C:\Users\HP\Desktop\prediction\models\Demandes_Conges.csv")
-    soldes   = load_csv_safe(r"C:\Users\HP\Desktop\prediction\models\Solde_Conges.csv")
+    demandes = load_csv_safe("Demandes_Conges.csv")
+    soldes   = load_csv_safe("Solde_Conges.csv")
 
 
     if demandes.empty or soldes.empty:
