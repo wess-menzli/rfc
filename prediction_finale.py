@@ -109,5 +109,7 @@ if __name__ == "__main__":
 
     # 👉 PAD captures this print in %PythonExecutionResult%
     print(result)
-with open("python_out.txt", "w", encoding="utf-8") as f:
-    f.write(result + "\n")
+
+    # ✅ Only write file when running locally, not when imported by Render
+    with open("python_out.txt", "w", encoding="utf-8") as f:
+        f.write(result + "\n")
